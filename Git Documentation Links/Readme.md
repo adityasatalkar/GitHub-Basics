@@ -18,3 +18,8 @@
 
 ## ProGit Book
 [Official Git Book](https://git-scm.com/book/en/v2)
+
+## Download:
+
+1  | cmder for windows    | [Link](https://cmder.net/)
+2  | Jetbrains            | [Link](https://www.jetbrains.com/student/)
