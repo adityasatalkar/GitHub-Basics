@@ -1,16 +1,16 @@
-# Official git documentation : https://git-scm.com/docs
+# Official git documentation : [https://git-scm.com/docs](https://git-scm.com/docs)
 
-[config](https://git-scm.com/docs/git-config)
-[init](https://git-scm.com/docs/git-init)
-[add](https://git-scm.com/docs/git-add)
-[status](https://git-scm.com/docs/git-status)
-[commit](https://git-scm.com/docs/git-commit)
-[push](https://git-scm.com/docs/git-push)
-[fetch](https://git-scm.com/docs/git-fetch)
-[pull](https://git-scm.com/docs/git-pull)
-[branch](https://git-scm.com/docs/git-branch)
-[remote](https://git-scm.com/docs/git-remote)
-[checkout](https://git-scm.com/docs/git-checkout)
+1.  [config](https://git-scm.com/docs/git-config)
+2.  [init](https://git-scm.com/docs/git-init)
+3.  [add](https://git-scm.com/docs/git-add)
+4.  [status](https://git-scm.com/docs/git-status)
+5.  [commit](https://git-scm.com/docs/git-commit)
+6.  [push](https://git-scm.com/docs/git-push)
+7.  [fetch](https://git-scm.com/docs/git-fetch)
+8.  [pull](https://git-scm.com/docs/git-pull)
+9.  [branch](https://git-scm.com/docs/git-branch)
+10. [remote](https://git-scm.com/docs/git-remote)
+11. [checkout](https://git-scm.com/docs/git-checkout)
 
 ## github cheat sheet:
 
