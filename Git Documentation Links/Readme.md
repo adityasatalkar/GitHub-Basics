@@ -21,5 +21,7 @@
 
 ## Download:
 
+Number | Name of the Software | Link
+------ | -------------------- | ----
 1  | cmder for windows    | [Link](https://cmder.net/)
 2  | Jetbrains            | [Link](https://www.jetbrains.com/student/)
